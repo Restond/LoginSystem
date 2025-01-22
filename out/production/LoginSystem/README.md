@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LoginSystem
-实践作业项目：快递运费计算程序
-=======
 # 快递计算管理系统
 
 ---
@@ -32,4 +28,3 @@ java -cp out com.cupcakes.Main
 如果您有任何问题或建议，请联系：
 1. 邮箱：2313494015@qq.com
 2. GitHub：Restond
->>>>>>> 6e066e1 (first commit)
